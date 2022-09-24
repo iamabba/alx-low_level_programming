@@ -27,6 +27,7 @@ void print_number(int num)
 			d *= 10;
 			if (d >= 1000000000)
 			if (d == 1000000000)
+
 				break;
 		}
 		if (!(d >= 1000000000) || n > 100000000)
