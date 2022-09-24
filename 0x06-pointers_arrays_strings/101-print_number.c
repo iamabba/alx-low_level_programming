@@ -40,3 +40,4 @@ void print_number(int num)
 		}
 		_putchar('0' + n % 10);
 	}
+}
